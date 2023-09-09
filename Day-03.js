@@ -24,3 +24,17 @@ Expected Console Output :
 
 
 //console.log(clock);
+
+//29. Write a JavaScript program to calculate circle area and perimeter.
+//Note : Create two methods to calculate the area and perimeter. The radius of the circle will be supplied by the user.
+
+function area(r){
+    let ar = Math.PI*r*r;
+  return ar;
+}
+
+function perimeter(r) {
+    let peri = 2*Math.PI*r;
+    return peri;
+}
+console.log(area(4) ,perimeter(4));
