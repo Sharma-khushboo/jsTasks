@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // 10. Write a JavaScript function that takes a string with both lowercase
 // and upper case letters as a parameter. It converts upper case letters to
 // lower case, and lower case letters to upper case.
@@ -87,3 +88,11 @@ let result = myString.split(' ');
 let newArr = result.push(mynum);
 console.log(newArr);
 
+=======
+<<<<<<< HEAD
+console.log('test');
+=======
+console.log('in this regular expression');
+>>>>>>> d5da4283cb39959f363cd25006e0c0a8f5847785
+console.log('hii, this is new commit')
+>>>>>>> 297661b8c73e67385a7beced0e7d780a7b68db2b
